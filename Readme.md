@@ -32,9 +32,10 @@ window.mainloop() # Displaying the window on computer screen
 window.geometry(420*420)
 ```
 
+<img width="311" alt="Screenshot 2024-02-07 121853" src="https://github.com/kirangajjana/tkinter/assets/44581291/bf4d19ab-025c-45af-aa61-a043707653d9">
 
 
-<img width="146" alt="Screenshot 2024-02-07 120941" src="https://github.com/kirangajjana/tkinter/assets/44581291/e0795be5-2997-4acf-bd2f-32e752a4249e">
+
 
 
 
@@ -42,7 +43,8 @@ we can change the title name of the window by using the below function
 ```python
 window.title("kiran Gajjana")
 ```
-<img width="146" alt="Screenshot 2024-02-07 120941" src="https://github.com/kirangajjana/tkinter/assets/44581291/5124c8ad-c466-4447-8709-6f3879ccff49">
+<img width="314" alt="Screenshot 2024-02-07 122717" src="https://github.com/kirangajjana/tkinter/assets/44581291/683a3c08-23c3-4fdf-aa0f-b6acc2792bf9">
+
 
 
 
