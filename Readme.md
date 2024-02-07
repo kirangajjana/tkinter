@@ -29,4 +29,6 @@ window.mainloop() # Displaying the window on computer screen
 ```python
 window.geometry(420*420)
 ```
+<img width="146" alt="Screenshot 2024-02-07 120941" src="https://github.com/kirangajjana/tkinter/assets/44581291/e0795be5-2997-4acf-bd2f-32e752a4249e">
+
 
