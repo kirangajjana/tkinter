@@ -13,5 +13,11 @@
 ## Creating an simple window
 ```python
 from tkinter import *
-window=TK() #instance of an window
+window=Tk() #instance of an window
 ```
+### Displaying the window
+```python
+from tkinter import  *
+window=Tk() #instance of an window
+window.mainloop()
+``` 
