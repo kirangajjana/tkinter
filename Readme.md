@@ -5,3 +5,4 @@
 ### By Kiran gajjana
 |WINDOW|Serves as a container to hold or contain the widgets|
 |---|-------------------------------------------------------|
+|widgets|Gui elements like buttons,images,labels,textboxes  |
