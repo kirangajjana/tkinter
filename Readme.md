@@ -68,4 +68,8 @@ window.config(background="skyblue")
 
 
 
+|label|An area widget that holds text or images on the window|
+
+
+
 
