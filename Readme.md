@@ -26,10 +26,14 @@ window.mainloop() # Displaying the window on computer screen
 <img width="146" alt="Screenshot 2024-02-07 120941" src="https://github.com/kirangajjana/tkinter/assets/44581291/80d5d8ae-2d2f-43fe-8ec4-7fcaf66fc253">
 <br>
  <b>we can change the size of the window by using below function<b>
- <br>
+
+
 ```python
 window.geometry(420*420)
 ```
+
+
+
 <img width="146" alt="Screenshot 2024-02-07 120941" src="https://github.com/kirangajjana/tkinter/assets/44581291/e0795be5-2997-4acf-bd2f-32e752a4249e">
 
 
