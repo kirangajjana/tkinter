@@ -44,6 +44,11 @@ we can change the title name of the window by using the below function
 window.title("kiran Gajjana")
 ```
 <img width="314" alt="Screenshot 2024-02-07 122717" src="https://github.com/kirangajjana/tkinter/assets/44581291/683a3c08-23c3-4fdf-aa0f-b6acc2792bf9">
+if we want to change the logo of the window you can add the below code
+```python
+icon = PhotoImage(file='logo.jpg')
+window.iconphoto(True,icon)
+```
 
 
 
