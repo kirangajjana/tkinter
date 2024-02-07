@@ -47,6 +47,9 @@ window.title("kiran Gajjana")
 <br>
 if we want to change the logo of the window you can add the below code
 <br>
+
+
+
 ```python
 icon = PhotoImage(file='logo.jpg')
 window.iconphoto(True,icon)
