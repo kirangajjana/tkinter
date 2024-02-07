@@ -1,6 +1,6 @@
 # tkinter Practice....
 ---
-## 02-02-2024..
+## 07-02-2024..
 ---
 ### By Kiran gajjana
 <br>
@@ -19,9 +19,14 @@ window=Tk() #instance of an window
 ```python
 from tkinter import  *
 window=Tk() #instance of an window
-window.mainloop() # Displaying the window
+window.mainloop() # Displaying the window on computer screen
 ``` 
-## Screenshop of window created by above code
+## Screenshot of window created on computer screen..
 <br>
 <img width="146" alt="Screenshot 2024-02-07 120941" src="https://github.com/kirangajjana/tkinter/assets/44581291/80d5d8ae-2d2f-43fe-8ec4-7fcaf66fc253">
+<br>
+## we can change the size of the window by using below function
+```python
+window.geometry(420*420)
+```
 
