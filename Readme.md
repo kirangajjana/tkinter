@@ -55,6 +55,14 @@ icon = PhotoImage(file='logo.jpg')
 window.iconphoto(True,icon)
 ```
 
+Adding background color to the window
+<br>
+
+```python
+window.config(background="skyblue")
+```
+
+
 
 
 
