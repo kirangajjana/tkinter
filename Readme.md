@@ -96,7 +96,7 @@ def kirangajjana():
         print("welcome")
 ```
 <br>
-once the user press on the click me button then the welcome will be displayed 5 times based on above function        
+once the user press on the click me button then the welcome will be displayed 5 times based on above function..      
 
 
 
