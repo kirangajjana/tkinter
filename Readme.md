@@ -100,6 +100,10 @@ once the user press on the click me button then the welcome will be displayed 5 
 <br> 
 We can redesign the button and change the background and fonts also
 <br>
+
+
+
+
 ```python
 button=Button(window,
               text="Click Me",
@@ -107,6 +111,8 @@ button=Button(window,
               font=("arial",10),
               fg='darkgreen',
               bg='black')
+
+              
 ```              
 
 
