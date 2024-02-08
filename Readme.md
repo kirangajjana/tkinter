@@ -70,6 +70,13 @@ window.config(background="skyblue")
 
 |label|An area widget that holds text or images on the window|
 |---|--------------------------------------------------------|
+<br>
+
+
+```python
+label=Label(text='kirangajjana',fg='red',relief=RAISED,background="gold",padx=10,pady=20)
+label.place(x=100,y=50)
+```
 
 
 
