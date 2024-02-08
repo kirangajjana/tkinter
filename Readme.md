@@ -77,6 +77,9 @@ window.config(background="skyblue")
 label=Label(text='kirangajjana',fg='red',relief=RAISED,background="gold",padx=10,pady=20)
 label.place(x=100,y=50)
 ```
+<br>
+<img width="314" alt="Screenshot 2024-02-08 161045" src="https://github.com/kirangajjana/tkinter/assets/44581291/d2879ce1-f2d9-423e-b9ed-2ec0c1fcc225">
+
 
 
 
