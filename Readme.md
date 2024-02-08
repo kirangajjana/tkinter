@@ -65,10 +65,11 @@ window.config(background="skyblue")
 
 <img width="314" alt="Screenshot 2024-02-07 124739" src="https://github.com/kirangajjana/tkinter/assets/44581291/182c992c-337c-4d1d-96e5-1965cd08a2e5">
 
-
+<br>
 
 
 |label|An area widget that holds text or images on the window|
+|---|--------------------------------------------------------|
 
 
 
