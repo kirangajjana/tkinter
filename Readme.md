@@ -79,7 +79,24 @@ label.place(x=100,y=50)
 ```
 <br>
 <img width="314" alt="Screenshot 2024-02-08 161045" src="https://github.com/kirangajjana/tkinter/assets/44581291/d2879ce1-f2d9-423e-b9ed-2ec0c1fcc225">
+<br>
+now we will display button on the window
 
+```python
+button=Button(window,
+              text="Click Me",
+              command=kirangajjana)
+```
+
+Function for the text button click me is shown below
+<br>
+```python
+def kirangajjana():
+    for i in range(5):
+        print("welcome")
+```
+<br>
+once the user press on the click me button then the welcome will be displayed 5 times based on above function        
 
 
 
