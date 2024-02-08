@@ -96,7 +96,18 @@ def kirangajjana():
         print("welcome")
 ```
 <br>
-once the user press on the click me button then the welcome will be displayed 5 times based on above function..      
+once the user press on the click me button then the welcome will be displayed 5 times based on above function..   
+<br> 
+We can redesign the button and change the background and fonts also
+<br>
+```python
+button=Button(window,
+              text="Click Me",
+              command=kirangajjana,
+              font=("arial",10),
+              fg='darkgreen',
+              bg='black')
+```              
 
 
 
