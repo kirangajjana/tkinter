@@ -129,6 +129,10 @@ Screenshot of the application after adding button
 
 <br>
  <img width="336" alt="Screenshot 2024-02-12 141029" src="https://github.com/kirangajjana/tkinter/assets/44581291/ce44837a-0f0b-4db6-abb9-c2ccdcd4bb59">
+ <br>
+
+ |Entry Widget| Textbox that accepts single line of user input|
+ |------------|-----------------------------------------------|
 
 
 
