@@ -120,5 +120,15 @@ Screenshot of the application after adding button
 <img width="318" alt="Screenshot 2024-02-12 135542" src="https://github.com/kirangajjana/tkinter/assets/44581291/05622cc7-f954-42a7-9967-ff82a7c4f62a">
 
 
+<br>
+ Now i have added the count button, when user press the count button it will display how many times the user has pressed the count button has shown in below scrrenshot
+ 
+
+ <br>
+
+ <img width="336" alt="Screenshot 2024-02-12 141029" src="https://github.com/kirangajjana/tkinter/assets/44581291/ce44837a-0f0b-4db6-abb9-c2ccdcd4bb59">
+
+
+
 
 
