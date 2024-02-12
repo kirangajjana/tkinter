@@ -1,4 +1,4 @@
-# tkinter tutorial....
+# tkinter tutorial....                                                                        Credits:Bro Code
 ---
 ---
 ### By Kiran gajjana
@@ -133,6 +133,11 @@ Screenshot of the application after adding button
 
  |Entry Widget| Textbox that accepts single line of user input|
  |------------|-----------------------------------------------|
+
+<br>
+
+ <img width="316" alt="Screenshot 2024-02-12 143414" src="https://github.com/kirangajjana/tkinter/assets/44581291/565bd3f6-62f2-4f86-92a2-a7e0cb45fdf6">
+
 
 
 
