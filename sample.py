@@ -37,3 +37,5 @@ button1=Button(window,
          command=new)
 button1.pack()
 window.mainloop()
+print('hello world')
+print('hai kiran gajjana')
