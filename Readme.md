@@ -1,4 +1,4 @@
-# tkinter tutorial....                                                                        Credits:Bro Code
+# tkinter tutorial....                                                                        Credits:Bro Code.......
 ---
 ---
 ### By Kiran gajjana
