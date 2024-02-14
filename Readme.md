@@ -150,10 +150,15 @@ entry.pack()
 ```
 
 
+<<<<<<< Updated upstream
 
 
 
 
+=======
+# now we are add  the new update here
+# we are getting ready for stash version here
+>>>>>>> Stashed changes
 
 
 
