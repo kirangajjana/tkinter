@@ -38,5 +38,3 @@ button1=Button(window,
 button1.pack()
 window.mainloop()
 print('hello world')
-print('hello kirangajjana')
-print('all new branched are added successfully')
