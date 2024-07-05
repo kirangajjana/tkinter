@@ -1,4 +1,5 @@
 from tkinter import *
+#tkinter..
 window=Tk()
 def submmit():
     user=entry.get()
